@@ -1,0 +1,86 @@
+
+
+ Start tapering... 
+
+Number of detected symmetries : 2
+Z2 symmetries found:
+ZZZZZ
+XXXXX
+Single qubit operators found:
+IIIIX
+IIIIZ
+Cliffords found:
+ZZZZZ	(0.7071067811865475+0j)
+IIIIX	(0.7071067811865475+0j)
+
+XXXXX	(0.7071067811865475+0j)
+IIIIZ	(0.7071067811865475+0j)
+
+Single-qubit list: [0, 0]
+Does the symmetry ZZZZZ commute with H? True
+Does the symmetry XXXXX commute with H? True
+Do the symmetries ZZZZZ and ZZZZZ commute? True
+Do the symmetries ZZZZZ and XXXXX commute? False
+Do the symmetries XXXXX and ZZZZZ commute? False
+Do the symmetries XXXXX and XXXXX commute? True
+Number of qubits of tapered qubit operator: 4
+Number of qubits of tapered qubit operator: 4
+Number of qubits of tapered qubit operator: 4
+Number of qubits of tapered qubit operator: 4
+Full H diagonalization 
+-6.000000
+-6.000000
+-6.000000
+-6.000000
+-6.000000
+-6.000000
+-4.000000
+-4.000000
+-4.000000
+-4.000000
+-2.000000
+-2.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+0.000000
+0.000000
+2.000000
+2.000000
+4.000000
+4.000000
+4.000000
+4.000000
+6.000000
+6.000000
+6.000000
+6.000000
+6.000000
+6.000000
++------------+-----------+-----------+-----------+-----------+
+| eigenvalue |  sector 0 |  sector 1 |  sector 2 |  sector 3 |
++------------+-----------+-----------+-----------+-----------+
+|     0      |    -6.0   |    -6.0   |    -6.0   |    -6.0   |
+|     1      | -5.464102 | -5.464102 | -5.464102 | -5.464102 |
+|     2      | -5.291503 | -5.291503 | -5.291503 | -5.291503 |
+|     3      | -4.904582 | -4.904582 | -4.904582 | -4.904582 |
+|     4      |  -3.59746 |  -3.59746 |  -3.59746 |  -3.59746 |
+|     5      |    -2.0   |    -2.0   |    -2.0   |    -2.0   |
+|     6      |    -2.0   |    -2.0   |    -2.0   |    -2.0   |
+|     7      |  0.27625  |  0.27625  |  0.27625  |  0.27625  |
+|     8      |  0.535898 |  0.535898 |  0.535898 |  0.535898 |
+|     9      |  1.464102 |  1.464102 |  1.464102 |  1.464102 |
+|     10     |    2.0    |    2.0    |    2.0    |    2.0    |
+|     11     |  2.548517 |  2.548517 |  2.548517 |  2.548517 |
+|     12     |  3.16423  |  3.16423  |  3.16423  |  3.16423  |
+|     13     |  5.291503 |  5.291503 |  5.291503 |  5.291503 |
+|     14     |  6.513045 |  6.513045 |  6.513045 |  6.513045 |
+|     15     |  7.464102 |  7.464102 |  7.464102 |  7.464102 |
++------------+-----------+-----------+-----------+-----------+
+
+
+...finish tapering 
+
